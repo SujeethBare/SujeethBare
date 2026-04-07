@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @SujeethBare
-- 👀 I’m interested to master Automotive Electronics.
-- 🌱 I’m currently persuing Electrical and Electronics Degree.
-- 💞️ I’m looking to collaborate on Linkedin @sujeethbare
-- 📫 Reach me at sujeethbare@gmail.com
+# 👋 Hi, I’m SujeethBare  
 
-<!---
-SujeethBare/SujeethBare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 What I Build & Share  
+
+- 🔗 **Portfolio / Blog** *(Coming Soon)*  
+  Deep dives into finance, markets, and global trade  
+
+- 🔌 **PCB Designs**  
+  Custom-designed boards for embedded applications  
+
+- 🚘 **Powertrain Models**  
+  Simulation and modeling of EV subsystems and full vehicle architectures  
+
+- 📊 **Control Algorithms**  
+  Real-time and model-based algorithms for vehicle control and optimization  
+
+---
+
+⚙️ *Turning systems into performance, ideas into motion.*
