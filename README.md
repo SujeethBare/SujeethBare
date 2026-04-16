@@ -12,7 +12,7 @@
   Simulation and modeling of EV subsystems and full vehicle architectures  
 
 - 📊 **Control Algorithms**  
-  Real-time and model-based algorithms for vehicle control and optimization  
+  Real time and model based algorithms for vehicle control and optimization  
 
 ---
 
