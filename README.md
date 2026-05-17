@@ -2,7 +2,8 @@
 
 ## 🧠 What I Build & Share  
 
-- 🔗 **Portfolio / Blog** *(Coming Soon)*  
+- 🔗 **Portfolio / Blog**  
+  https://medium.com/@sujeethbare
   Deep dives into finance, markets, and global trade  
 
 - 🔌 **PCB Designs**  
